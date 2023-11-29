@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\menor de tres\menor de tres\bin\Debug\menor de tres.exe.config
+C:\temp\ws-vs2019\menor de tres\menor de tres\bin\Debug\menor de tres.exe
+C:\temp\ws-vs2019\menor de tres\menor de tres\bin\Debug\menor de tres.pdb
+C:\temp\ws-vs2019\menor de tres\menor de tres\obj\Debug\menor de tres.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\menor de tres\menor de tres\obj\Debug\menor de tres.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\menor de tres\menor de tres\obj\Debug\menor de tres.exe
+C:\temp\ws-vs2019\menor de tres\menor de tres\obj\Debug\menor de tres.pdb
